@@ -18,7 +18,7 @@ Python · pandas · numpy · matplotlib · scikit-learn
 ## Project Structure
 ```
 india-air-quality-pm25-analysis/
-├── data/
+
 │   ├── Data.csv
 │   ├── State_data.csv
 │   └── NCAP_Funding.csv
